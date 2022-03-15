@@ -10,6 +10,7 @@ import org.junit.jupiter.api.Test;
 class CalculateTest {
 
 	/*This test added by Muharrem Kaya*/
+	/*March 15 2022*/
 	@Test
 	void goodSumTest() {
 		Double var1 = 10.0;
