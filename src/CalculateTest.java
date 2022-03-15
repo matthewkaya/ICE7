@@ -5,6 +5,15 @@ import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+/*ICE 7 Project 
+Group Members
+Muharrem Kaya
+Gurwinder Kaur
+Jimmy Owusu Kessie
+Deya Kaya
+Ningfan Chan */
+
+
 
 
 class CalculateTest {
