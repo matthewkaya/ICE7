@@ -1,3 +1,12 @@
+/*ICE7 for Software Process Management
+
+Group Members
+Muharrem Kaya
+Gurwinder Kaur
+Jimmy Owusu Kessie
+Deya Kaya
+Ningfan Chan */
+
 
 public class Calculate {
 	
