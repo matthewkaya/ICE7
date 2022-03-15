@@ -13,6 +13,11 @@ public class Calculate {
 	private Double var1;
 	private Double var2;
 	
+	/*Constructor
+	@param var1 first variable
+	@param var2 second variable
+	*/
+	
 	public Calculate(Double var1, Double var2) {
 		super();
 		
